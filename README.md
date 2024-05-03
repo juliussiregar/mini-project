@@ -1,5 +1,7 @@
 # Purwadhika Final Project Repository
 
+# Berikut adalah Repository Mini-Project Purwadhika atas nama Julius dan Yana #
+
 This project uses React.js with NextJS for the frontend, Express.js for the backend, and TurboRepo for monorepo management, facilitating rapid development of a scalable web application with streamlined collaboration and efficient server-client interactions.
 
 ## Available Scripts
